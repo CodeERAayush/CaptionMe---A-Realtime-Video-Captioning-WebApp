@@ -23,7 +23,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone 
+    git clone https://github.com/CodeERAayush/CaptionMe---A-Realtime-Video-Captioning-WebApp.git
     cd Video-Captioning-App
     ```
 
@@ -67,5 +67,5 @@ Follow these steps to get the project up and running on your local machine:
 
 ## 🌟 Give It a Spin!
 
-Experience the Video Captioning App now: [Live Demo]()
+Experience the Video Captioning App now: [Live Demo](https://caption-me-a-realtime-video-captioning-web-app.vercel.app/)
 
